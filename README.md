@@ -1,7 +1,5 @@
 # 3D-Model-Generation-from-Prompt
 
-### Description: Task Assignment of Mann Bhanushali for AI Research Intern - 3D Model Generation for Pi Reality
-
 ## Approaches:
 
 I started with learning how to convert an image into a 3D Model first as there are many VLM models that can generate good Images from Prompts. I wanted to prevent using VLMs and hence went to using the technology they rely upon which is Diffusion Models. Post this, my approach was to try using fully pre-built models that directly do the task for me and then disintegrate the task into steps so as to learn the different foundational methodologies for increased control over the outcome. This lead to me using NeRF and then later Depth Image based approaches.
